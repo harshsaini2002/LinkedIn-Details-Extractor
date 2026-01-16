@@ -68,11 +68,54 @@ The project reduces manual effort, improves accuracy, and enables faster access 
 
 ## ⚙️ System Workflow
 
-1. **User Authentication**
-2. **Automated Login to LinkedIn**
-3. **Search for Company / Job Profiles**
-4. **Dynamic Page Rendering (Selenium)**
-5. **Company & Job Data Extraction**
-6. **Data Cleaning & Validation**
-7. **Structured Storage (CSV / Database)**
-8. **Analysis for Investment & Hiring Trends**
+1. User Authentication
+2. Automated Login to LinkedIn
+3. Search for Company / Job Profiles
+4. Dynamic Page Rendering (Selenium)
+5. Company & Job Data Extraction
+6. Data Cleaning & Validation
+7. Structured Storage (CSV / Database)
+8. Analysis for Investment & Hiring Trends
+
+---
+
+## ▶️ Available Options in Application
+
+-  Extract Company Details  
+-  Extract Job Listings  
+-  Store Data in CSV / Database  
+-  Analyze Hiring Trends 
+-  Delete User Account
+
+---
+
+## 📊 Output
+
+### 🏢 Company Data
+- CSV file containing structured company details  
+- Database tables designed for investment analysis  
+
+### 💼 Job Data
+- CSV file containing extracted job listings  
+- Insights include:
+  - Hiring frequency  
+  - Skill demand  
+  - Location-based opportunities  
+
+---
+
+## 📈 Investment & Job Market Insights
+- Identify fast-growing companies based on hiring activity  
+- Analyze demand for specific skills and job roles  
+- Support investment decisions using hiring trend analysis  
+- Assist job seekers with targeted and relevant job discovery  
+
+---
+
+## 🔮 Future Scope
+- NLP-based job description and keyword analysis  
+- Sentiment analysis on job postings and company updates  
+- Machine learning models for company growth prediction  
+- Real-time job market monitoring and alerts  
+- Integration with platforms like **Glassdoor, Crunchbase, and AngelList**  
+- Cloud-based deployment for enhanced scalability and performance  
